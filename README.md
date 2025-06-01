@@ -1,4 +1,4 @@
-# ChronoCast
+# ClimeCast
 ## Proget - #2
 
 This is a simple yet useful Weather app which shows the weather conditions of almost any city in the world.
@@ -11,4 +11,4 @@ Step 2: check out its weather conditions.
 
 ### Domain
 
-This has been published to the web with the domain named: https://chronocast.vercel.app
+This has been published to the web with the domain named: https://climecast.vercel.app
